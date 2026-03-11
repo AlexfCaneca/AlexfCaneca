@@ -46,12 +46,15 @@ My focus areas are Java development, Mobile development and Software Architectur
 |---------|-------------|------|
 | **Project_Facility** | Survival-Horror game in Unity with sound-based monster and micro system management | [GitHub](https://github.com/AlexfCaneca/Project_Facility) |
 | **Project_Deckdelvers** | Deck Builder Roguelike game in Unity where you manage cards to advance stages | [GitHub](https://github.com/DiogoBettencourt/Project_Deckdelvers) |
+| **Home-Automation-System** | System to automate the use of several devices in a house | [GitHub](https://github.com/AlexfCaneca/Home-Automation-System) |
+| **Transport-Network-System** | Simulation of a Transports Network with shortest path finding graph algoritms | [GitHub](https://github.com/AlexfCaneca/Transport-Network-Simulator) |
 | *(More projects coming)* | | |
 
 ## Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
+| **QR-HITU** | QR based malfunction mobile app developed in kotlin (unfinished) | [GitHub](https://github.com/HITU-Services/Qr-Hitu-Remake) |
 | *(More projects coming)* | | |
 
 ---
