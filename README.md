@@ -1,7 +1,10 @@
 # Hi there, I'm Alexandre Caneca
 
-I'm at my final year in my Computer Science Degree at Instituto Politécnico de Setúbal.
-My focus areas are Java development, Mobile development and Software Architecture.
+I'm a Computer Science Graduate at Instituto Politécnico de Setúbal.
+Most of my experience is in Mobile Development with Flutter/React, but currently trying to branch out and learn more Backend and System design.
+
+- Currently learning: Go Lang
+- Planning/TBD: C++
 
 ---
 
