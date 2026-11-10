@@ -13,11 +13,11 @@ Most of my experience is in Mobile Development with Flutter/React, but currently
 ### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Frameworks & Tools
@@ -40,25 +40,6 @@ Most of my experience is in Mobile Development with Flutter/React, but currently
 - Backend Development
 - Mobile Development
 - Game Development/Design
-
----
-
-## Academic Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Project_Facility** | Survival-Horror game in Unity with sound-based monster and micro system management | [GitHub](https://github.com/AlexfCaneca/Project_Facility) |
-| **Project_Deckdelvers** | Deck Builder Roguelike game in Unity where you manage cards to advance stages | [GitHub](https://github.com/DiogoBettencourt/Project_Deckdelvers) |
-| **Home-Automation-System** | System to automate the use of several devices in a house | [GitHub](https://github.com/AlexfCaneca/Home-Automation-System) |
-| **Transport-Network-System** | Simulation of a Transports Network with shortest path finding graph algoritms | [GitHub](https://github.com/AlexfCaneca/Transport-Network-Simulator) |
-| *(More projects coming)* | | |
-
-## Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **QR-HITU** | QR based malfunction mobile app developed in kotlin (unfinished) | [GitHub](https://github.com/HITU-Services/Qr-Hitu-Remake) |
-| *(More projects coming)* | | |
 
 ---
 
